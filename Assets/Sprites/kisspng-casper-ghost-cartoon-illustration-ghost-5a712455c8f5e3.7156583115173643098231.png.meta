@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 31b5e897129ea974fa998884c033deba
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_0
+    21300002: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_1
+    21300004: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_2
+    21300006: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_3
+    21300008: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_4
+    21300010: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_5
+    21300012: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_6
+    21300014: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_7
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 565
+        width: 496
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699d73903cd04a24cae1369d1506ef60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 569
+        width: 500
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270e3b7a83f1b0f4a80ab84089256bbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 590
+        width: 520
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a149688351de7b418ae659fd1cc19c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_3
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 586
+        width: 475
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a9010525ef3fe4eaf7eb200b930028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 520
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caabbe019db04044a3ed4076d550dd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0.5
+        width: 270.25
+        height: 535.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8effcf9b66c6247b063c203f31bae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 79
+        width: 444
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3f9b61dc1c7ad46a045616be73ead2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-casper-ghost-cartoon-illustration-ghost-5a712455c8f5e3.7156583115173643098231_7
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0.5
+        width: 270.25
+        height: 535.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015706f488fa4e941934404a3906d17b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6bb617fbeae42c649bb0529037ffb1bd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
